@@ -1,7 +1,7 @@
 Space Invaders for the NEXYS2-500 Dev Board.
 
 Notes:
-Sounds are not as original (an approximation only) for original sound samples see alternative mister project.
+Sounds are not as original (an approximation only) for original sound samples see included patch folder for adding game updates.
 Setup for 1 player arcade controls (5 switches) (coin-start-left-right-shoot).
 Each switch is connected one side to NEXYS2 I/O Pin and other side to VCC 3.3v (pins 6 or 12 on GPIO Pin Headers).
 Pin Header locations are specified in the "invaders_top.ucf" File.
